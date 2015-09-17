@@ -1,0 +1,12 @@
+# First of all: you should have one of the following VM product in order to install the Saasbook VM img:
+1- for windows users : - Virtual box (free)
+2- for Mac OS X users: - Parallels (the one I got and it works pretty good for me)
+		       - VmWare Fusion (Dr.Mouath's product)
+:( both of them are not free.
+
+3- download the Vm img from the following link: http://dekr0bcnl4w2b.cloudfront.net/saasbook-0.10.3.1.zip
+4- when the download is completed, go to your VM product, file -> add an existing VM
+5- In average, it will take around 5 mins to lunch Ubuntu login screen.
+6- Finally, when you're asked to type the password, use the default password: saasbook (all small case)
+7- Enjoy, :) 
+		       
